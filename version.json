@@ -1,0 +1,15 @@
+{
+    "version": "0.15",
+    "files": [
+        {
+            "name": "Game.locres",
+            "path": "TL/Content/Localization/Game/es/Game.locres",
+            "url": "https://github.com/mazixs/TL_LOC_FILES/releases/download/v0.15/TL/Content/Localization/Game/es/Game.locres"
+        },
+        {
+            "name": "pakchunk-Localization-es.pak",
+            "path": "TL/Content/Paks/pakchunk-Localization-es.pak",
+            "url": "https://github.com/mazixs/TL_LOC_FILES/releases/download/v0.15/TL/Content/Paks/pakchunk-Localization-es.pak"
+        }
+    ]
+}
